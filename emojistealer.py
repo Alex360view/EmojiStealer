@@ -127,8 +127,8 @@ async def on_ready():
         console.log(f'[bold green]Completed copying emojis!')
         console.print()
         console.print('[cyan]Thanks for using EmojiSteal script!')
-        console.print('[cyan]Coded by @DarkGuy10 https://github.com/DarkGuy10/')
-        console.print('[i]Ehe te nanayo![/]')
+        console.print('[cyan]Coded by @aintnoway1alex https://github.com/Alex360view')
+        console.print('[i]thank you![/]')
         await exit_code()
 
     except Exception as e:
